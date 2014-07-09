@@ -25,7 +25,7 @@ function onAddButton(){
             $('#answerbox').css('color','red')
         }
                else{
-               $('#answerbox').css('color','green')
+               $('#answerbox').css('color','green');
                }
 
         }
