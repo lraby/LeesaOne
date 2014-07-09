@@ -1,0 +1,41 @@
+
+<html>
+<head>
+    <title>Leesa's Guessing Game</title>
+<script language="javascript">
+var theNumber=Math.floor(Math.random()*100+1);
+    function checkguess()
+    {
+    var guess=document.getElementById('guess');
+    var output = document.getElementById('output');
+    var myNumber=guess.value;
+    if (myNumber < theNumber)
+    {
+        output.value='Too low, please try again.';
+        //alert('Too Low! Try again!');
+    }
+    else if (myNumber > theNumber)
+    {
+        output.value="Too high, please"
+    }
+    else if (myNumber == theNumber)
+    {
+        output.value='You got the number, you win! Play again...';
+        alert('The number was ' + theNumber + '! You Win!')
+        theNumber=Math.floor(Math.random()*100+1);
+    }
+    }
+
+
+</script>
+
+</head>
+<body><h2>Leesa's Guessing Game</h2>
+<form>
+    Enter a number from 1 to 100:
+    <input id="guess" type="text" size="8" /><br />
+    <input type="button" value="Guess" onclick="checkguess()" /><br />
+    <input id="output" type="text" size="60" /><br />
+</form>
+</body>
+</html>

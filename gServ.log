@@ -1,0 +1,246 @@
+2014-07-02 19:25:47,493 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 19:25:47,534 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 19:25:47,570 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 19:25:47,617 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 19:25:47,769 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 19:27:04,467 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 19:27:04,493 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 19:27:04,525 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 19:27:04,582 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 19:31:47,264 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 19:31:47,289 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 19:31:47,312 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 19:31:47,371 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 19:35:27,865 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 19:35:27,877 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(3) recieved req #2 /
+2014-07-02 19:35:27,879 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - Running AsyncHandler(3) for req#2 /
+2014-07-02 19:35:27,885 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(3) for req#2 / - Finished.
+2014-07-02 19:53:11,446 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 19:53:11,492 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 19:53:11,515 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 19:53:11,567 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 19:53:14,511 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 19:53:14,522 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) recieved req #2 /
+2014-07-02 19:53:14,523 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(3) for req#2 /
+2014-07-02 19:53:14,526 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) for req#2 / - Finished.
+2014-07-02 19:54:55,139 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 19:54:55,171 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 19:54:55,196 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 19:54:55,267 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 19:56:55,005 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 19:56:55,031 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 19:56:55,053 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 19:56:55,107 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 20:02:06,862 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 20:02:06,892 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 20:02:06,915 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 20:02:06,976 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 20:02:48,574 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 20:02:48,610 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 20:02:48,640 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 20:02:48,710 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 20:03:42,398 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 20:03:42,426 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 20:03:42,458 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 20:03:42,520 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 20:03:47,517 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 20:03:47,525 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) recieved req #2 /
+2014-07-02 20:03:47,529 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(3) for req#2 /
+2014-07-02 20:03:47,554 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) for req#2 / - Finished.
+2014-07-02 20:03:49,695 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #3 
+2014-07-02 20:03:49,703 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(4) recieved req #3 /
+2014-07-02 20:03:49,704 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(4) for req#3 /
+2014-07-02 20:03:49,706 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(4) for req#3 / - Finished.
+2014-07-02 20:04:34,150 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 20:04:34,179 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 20:04:34,206 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 20:04:34,277 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 20:04:36,279 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 20:04:36,285 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(3) recieved req #2 /
+2014-07-02 20:04:36,286 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - Running AsyncHandler(3) for req#2 /
+2014-07-02 20:04:36,289 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(3) for req#2 / - Finished.
+2014-07-02 20:04:53,128 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 20:04:53,158 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 20:04:53,185 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 20:04:53,250 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 20:04:55,395 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 20:04:55,404 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - AsyncHandler(3) recieved req #2 /
+2014-07-02 20:04:55,405 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - Running AsyncHandler(3) for req#2 /
+2014-07-02 20:04:55,410 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - AsyncHandler(3) for req#2 / - Finished.
+2014-07-02 20:06:38,467 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 20:06:38,498 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 20:06:38,524 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 20:06:38,590 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 20:06:40,098 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 20:06:40,105 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(3) recieved req #2 /
+2014-07-02 20:06:40,107 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - Running AsyncHandler(3) for req#2 /
+2014-07-02 20:06:40,109 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(3) for req#2 / - Finished.
+2014-07-02 20:06:42,137 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #3 
+2014-07-02 20:06:42,142 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(4) recieved req #3 /
+2014-07-02 20:06:42,144 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - Running AsyncHandler(4) for req#3 /
+2014-07-02 20:06:42,147 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(4) for req#3 / - Finished.
+2014-07-02 20:07:34,929 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 20:07:34,966 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 20:07:34,996 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 20:07:35,051 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      2014-07-02 20:20:02,647 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 20:20:02,675 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 20:20:02,698 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 20:20:02,767 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 20:20:02,804 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 20:20:03,049 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #3 
+2014-07-02 20:22:44,375 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #4 
+2014-07-02 20:22:44,381 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) recieved req #4 /
+2014-07-02 20:22:44,384 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(3) for req#4 /
+2014-07-02 20:22:44,395 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) for req#4 / - Finished.
+2014-07-02 20:22:44,411 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #5 
+2014-07-02 20:39:32,058 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 20:39:32,103 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 20:39:32,130 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 20:39:32,200 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 20:39:32,210 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 20:40:37,216 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #3 
+2014-07-02 20:40:37,225 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) recieved req #3 /
+2014-07-02 20:40:37,227 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(3) for req#3 /
+2014-07-02 20:40:37,231 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) for req#3 / - Finished.
+2014-07-02 20:40:37,243 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #4 
+2014-07-02 20:41:40,434 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 20:41:40,470 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 20:41:40,501 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 20:41:40,578 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 20:41:40,597 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 20:44:18,058 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 20:44:18,093 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 20:44:18,128 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 20:44:18,201 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 20:44:18,242 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 20:44:49,144 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #3 
+2014-07-02 20:44:49,149 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) recieved req #3 /
+2014-07-02 20:44:49,150 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(3) for req#3 /
+2014-07-02 20:44:49,159 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) for req#3 / - Finished.
+2014-07-02 20:44:49,175 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #4 
+2014-07-02 20:48:45,560 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 20:48:45,587 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 20:48:45,610 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 20:48:45,668 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 20:48:45,697 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 20:50:54,460 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 20:50:54,493 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 20:50:54,516 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 20:50:54,573 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 20:50:54,581 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 21:08:36,995 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 21:08:37,026 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 21:08:37,048 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 21:08:37,107 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 21:08:37,138 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 21:10:59,980 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 21:11:00,008 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 21:11:00,031 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 21:11:00,084 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 21:11:00,098 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 21:11:45,615 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 21:11:45,639 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 21:11:45,666 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 21:11:45,716 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 21:11:45,732 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 21:13:46,492 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 21:13:46,517 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 21:13:46,542 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 21:13:46,605 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 21:13:46,616 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 21:15:19,424 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 21:15:19,452 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 21:15:19,474 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 21:15:19,536 ForkJoinPool-1-worker-2 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 21:15:19,560 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 21:15:53,521 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #3 
+2014-07-02 21:15:53,529 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) recieved req #3 /
+2014-07-02 21:15:53,530 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(3) for req#3 /
+2014-07-02 21:15:53,533 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) for req#3 / - Finished.
+2014-07-02 21:15:53,550 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #4 
+2014-07-02 21:16:28,368 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #5 
+2014-07-02 21:16:28,374 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(4) recieved req #5 /
+2014-07-02 21:16:28,381 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(4) for req#5 /
+2014-07-02 21:16:28,393 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(4) for req#5 / - Finished.
+2014-07-02 21:16:28,412 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #6 
+2014-07-02 21:17:27,420 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 21:17:27,446 ForkJoinPool-1-worker-5 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 21:17:27,468 ForkJoinPool-1-worker-5 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 21:17:27,534 ForkJoinPool-1-worker-5 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 21:17:27,539 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 21:27:07,248 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 21:27:07,273 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 21:27:07,299 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 21:27:07,366 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 21:27:07,381 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 21:31:12,916 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 21:31:12,944 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 21:31:12,967 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 21:31:13,025 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 21:31:13,033 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 22:03:40,970 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 22:03:40,999 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 22:03:41,025 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 22:03:41,079 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 22:03:41,099 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 22:04:48,784 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 22:04:48,829 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 22:04:48,857 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 22:04:48,915 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 22:04:48,931 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 22:06:28,946 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 22:06:28,973 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 22:06:28,996 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 22:06:29,070 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 22:06:29,100 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 22:06:54,241 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 22:06:54,267 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 22:06:54,294 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 22:06:54,345 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 22:06:54,358 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 22:07:51,018 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #3 
+2014-07-02 22:07:51,022 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) recieved req #3 /
+2014-07-02 22:07:51,025 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(3) for req#3 /
+2014-07-02 22:07:51,032 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(3) for req#3 / - Finished.
+2014-07-02 22:07:51,048 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #4 
+2014-07-02 22:09:13,339 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #5 
+2014-07-02 22:09:13,350 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(4) recieved req #5 /
+2014-07-02 22:09:13,353 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - Running AsyncHandler(4) for req#5 /
+2014-07-02 22:09:13,362 ForkJoinPool-1-worker-1 DEBUG g_serv.AsyncHandler - AsyncHandler(4) for req#5 / - Finished.
+2014-07-02 22:09:13,390 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #6 
+2014-07-02 22:11:20,153 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 22:11:20,184 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 22:11:20,208 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 22:11:20,262 ForkJoinPool-1-worker-4 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 22:11:20,284 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 22:12:31,591 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 22:12:31,617 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - AsyncHandler(2) recieved req #1 /
+2014-07-02 22:12:31,642 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - Running AsyncHandler(2) for req#1 /
+2014-07-02 22:12:31,704 ForkJoinPool-1-worker-3 DEBUG g_serv.AsyncHandler - AsyncHandler(2) for req#1 / - Finished.
+2014-07-02 22:12:31,714 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 23:15:00,874 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #3 
+2014-07-02 23:15:37,525 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:17:52,877 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:17:56,477 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 23:18:04,483 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #3 
+2014-07-02 23:18:42,821 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:22:57,623 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:24:02,127 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:26:29,891 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:26:56,980 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 23:27:04,163 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #3 
+2014-07-02 23:29:56,929 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:29:59,632 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 23:32:32,758 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:38:36,614 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:41:24,178 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:41:41,361 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:43:39,603 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:45:22,280 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:47:15,264 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:48:41,766 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 23:51:29,644 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:51:42,450 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #2 
+2014-07-02 23:52:14,579 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
+2014-07-02 23:55:02,088 Thread-3 DEBUG g_serv.gServInstance - initFilter: new request #1 
